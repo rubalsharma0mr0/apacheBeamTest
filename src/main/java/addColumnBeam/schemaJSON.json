@@ -1,0 +1,22 @@
+[
+  {
+    "name": "PersonID",
+    "type": "int"
+  },
+  {
+    "name": "LastName",
+    "type": "varchar"
+  },
+  {
+    "name": "FirstName",
+    "type": "varchar"
+  },
+  {
+    "name": "State",
+    "type": "varchar"
+  },
+  {
+    "name": "City",
+    "type": "varchar"
+  }
+]

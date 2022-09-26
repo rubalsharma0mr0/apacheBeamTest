@@ -1,0 +1,5 @@
+ID, ProductID, OrderID, Amount, mapElement.User Name
+1002,1,1,400,Steve
+1003,4,3,200,Ajay
+1005,2,5,350,null
+1001,1,1,300,John
